@@ -128,7 +128,7 @@
             display-name = "Copy/paste (click/double-click)";
             #binding-cells = <0>;
             tapping-term-ms = <300>;
-            bindings = <&kp K_COPY>, <&kp K_PASTE>;
+            bindings = <&kp LG(C)>, <&kp LG(V)>;
         };
     };
 
